@@ -24,10 +24,5 @@ public class Employees {
 		this.lastName = lastName;
 		this.birthDate = birthDate;
 	}
-	
-	
-	
-	
-	
 
 }
